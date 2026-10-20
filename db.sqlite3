@@ -1,0 +1,10 @@
+CREATE TABLE products(id INTEGER PRIMARY KEY,product_name TEXT,skin_benefit TEXT,price TEXT);
+INSERT INTO products VALUES
+(1,'Lumière Renewal Serum','Deep skin repair, reduces fine lines & boosts natural glow','₱1,890'),
+(2,'Aqua‑Luxe Barrier Toner','Strengthens sensitive skin, locks‑in long‑lasting hydration','₱1,450'),
+(3,'Velvet Glow Sleeping Mask','Overnight brightening, evens skin tone while you rest','₱1,620'),
+(4,'Crystal Shield UV Defense','High‑grade daily sun protection, prevents dark spots','₱1,280'),
+(5,'Pure Radiance Exfoliant','Gentle deep exfoliation, clears blemishes & dull skin','₱1,360'),
+(6,'Sapphire Hydra‑Cream','Rich moisture for dry skin, softens & smoothes texture','₱1,740'),
+(7,'Eclat Brightening Concentrate','Targeted brightening for uneven tone & post‑acne marks','₱1,980'),
+(8,'Marine Collagen Boost Lotion','Improves skin elasticity, keeps skin plump & youthful‑looking','₱1,530');
